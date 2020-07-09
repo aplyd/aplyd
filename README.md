@@ -2,10 +2,10 @@
 
 ___
 
-## Current Favorite Tech
+## Currently Working With
+- JavaScript
 - React
 - Node
-- Styled-components
 
 ## Want to Learn
 - Typescript
@@ -19,3 +19,5 @@ ___
 ## Reach Me
 - [Twitter](https://twitter.com/austinftacnik)
 - [DEV](https://dev.to/austinftacnik)
+
+<div width="400px" height="200px" background-color="red"></div>
