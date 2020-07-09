@@ -20,4 +20,10 @@ ___
 - [Twitter](https://twitter.com/austinftacnik)
 - [DEV](https://dev.to/austinftacnik)
 
-<div style="width: 100px; height: 100px; background-color: red;"></div>
+<html>
+  <head></head>
+  <body>
+    <div style="width: 100px; height: 100px; background-color: red;"></div>  
+  </body>
+</html>
+
