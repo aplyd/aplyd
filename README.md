@@ -20,4 +20,4 @@ ___
 - [Twitter](https://twitter.com/austinftacnik)
 - [DEV](https://dev.to/austinftacnik)
 
-<div width="400px" height="200px" background-color="red"></div>
+<div style="width: 100px; height: 100px; background-color: red;"></div>
