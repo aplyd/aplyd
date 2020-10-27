@@ -1,29 +1,15 @@
-# Hello, people 🗣
-
+# Hello, friends 🗣
 ___
 
 ## Currently Working With
 - JavaScript
+- Typescript
 - React
 - Node
 
-## Want to Learn
-- Typescript
-- GraphQL
-
 ## Hobbies
-- Read
-- Code
-- Lift
+- Dragging eyeballs across words on pages
+- Pressing keys on keyboards
+- Repeatedly lifitng heavy objects and setting them down
 
-## Reach Me
-- [Twitter](https://twitter.com/austinftacnik)
-- [DEV](https://dev.to/austinftacnik)
-
-<html>
-  <head></head>
-  <body>
-    <div style="width: 100px; height: 100px; background-color: red;"></div>  
-  </body>
-</html>
-
+*Twitter DMs open (or email, if you prefer)*
