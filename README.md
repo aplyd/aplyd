@@ -12,6 +12,6 @@ ___
 - Pressing keys on keyboards
 - Repeatedly lifitng heavy objects and setting them down
 
-<hr />
+<br />
 
 <small>*Twitter DMs open (or email, if you prefer)*</small>
