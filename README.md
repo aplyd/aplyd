@@ -8,9 +8,9 @@ ___
 - Node
 
 ## Hobbies
-- Dragging eyeballs across words on pages
-- Pressing keys on keyboards
-- Repeatedly lifitng heavy objects and setting them down
+- Reading
+- Gaming
+- Lifting
 
 <br />
 
