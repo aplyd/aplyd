@@ -5,7 +5,7 @@ ___
 - JavaScript
 - Typescript
 - React
-- Node
+- Next.js
 
 <br />
 
