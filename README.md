@@ -1,11 +1,8 @@
 # Hello, friends 🗣
 ___
 
-## Currently Working With
-- JavaScript
-- Typescript
-- React
-- Next.js
+## Tools
+TypeScript | Node | Postgres | NextJS | Tailwind 
 
 <br />
 
